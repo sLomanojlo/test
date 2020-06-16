@@ -2,3 +2,4 @@ test file
 Second commit
 New branch slobranch
 Some work on the new branch
+And more work on the same new branch
